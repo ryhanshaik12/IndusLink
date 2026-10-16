@@ -230,11 +230,6 @@ This is a demo application. For production deployment:
 6. Implement proper chat functionality
 7. Add analytics and monitoring
 
-## 📞 Support
-
-- Customer Support: support@induslink.com
-- Business Inquiries: business@induslink.com
-- Technical Support: tech@induslink.com
 
 ## 🌱 Circular Economy
 
