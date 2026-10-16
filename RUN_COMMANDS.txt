@@ -1,0 +1,74 @@
+===============================================
+INDUSLINK MOBILE APP - RUN COMMANDS
+===============================================
+
+STEP 1: Navigate to the mobile directory
+----------------------------------------
+cd induslink-mobile
+
+
+STEP 2: Start the Expo development server
+----------------------------------------
+npm start
+
+This will:
+- Start the Metro bundler
+- Display a QR code
+- Show development options
+
+
+STEP 3: Connect with Expo Go App
+----------------------------------------
+
+Android:
+1. Install "Expo Go" app from Google Play Store
+2. Open Expo Go app
+3. Scan the QR code shown in terminal
+   OR press 'a' in terminal to open on Android emulator
+
+iOS:
+1. Install "Expo Go" app from App Store  
+2. Open Camera app
+3. Scan the QR code shown in terminal
+   OR press 'i' in terminal to open on iOS simulator
+
+
+STEP 4: Alternative Commands
+----------------------------------------
+# For Android specific
+npm run android
+
+# For iOS specific (requires macOS)
+npm run ios
+
+# For web browser
+npm run web
+
+
+IMPORTANT NOTES:
+===============================================
+✅ App is ready to use with all features
+✅ Password-based authentication
+✅ Image upload from device (for sellers)
+✅ Shopping cart & orders
+✅ Profile with support info
+✅ Bottom tab navigation
+
+
+FEATURES INCLUDED:
+===============================================
+🏪 Marketplace - Browse materials
+🛒 Cart - View and manage cart items  
+📦 Orders - Track your orders
+👤 Profile - View account & support info
+🔐 Login/Register - Password authentication
+📷 Image Upload - For sellers (direct from device)
+
+
+NEXT STEPS:
+===============================================
+1. Run: cd induslink-mobile
+2. Run: npm start  
+3. Scan QR code with Expo Go app on your phone
+4. Start using IndusLink mobile app!
+
